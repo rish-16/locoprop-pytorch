@@ -1,0 +1,1 @@
+from locoprop_pytorch.locoprop_pytorch import LocoProp
